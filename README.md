@@ -8,4 +8,4 @@ python3.5 https://www.python.org/downloads/release/python-352/
 
 使用方法
 
-python mine-sweeoing.py
+python mine-sweeping.py
